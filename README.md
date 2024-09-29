@@ -1,2 +1,2 @@
-# tutorposi24
+# TutorPosi24
 tutorial github dengan posi
